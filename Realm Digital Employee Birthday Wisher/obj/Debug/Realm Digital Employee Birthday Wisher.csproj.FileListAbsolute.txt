@@ -1,0 +1,9 @@
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\bin\Debug\Realm Digital Employee Birthday Wisher.exe.config
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\bin\Debug\Realm Digital Employee Birthday Wisher.exe
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\bin\Debug\Realm Digital Employee Birthday Wisher.pdb
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\obj\Debug\Realm Digital Employee Birthday Wisher.csprojAssemblyReference.cache
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\obj\Debug\Realm Digital Employee Birthday Wisher.csproj.CoreCompileInputs.cache
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\obj\Debug\Realm Digital Employee Birthday Wisher.exe
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\obj\Debug\Realm Digital Employee Birthday Wisher.pdb
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\obj\Debug\Realm_Digital_Employee_Birthday_Wisher.ProjectInstaller.resources
+C:\Users\Mr Jiza\Source\repos\Luleko\Realm Digital Employee Birthday Wisher\Realm Digital Employee Birthday Wisher\obj\Debug\Realm Digital Employee Birthday Wisher.csproj.GenerateResource.cache
